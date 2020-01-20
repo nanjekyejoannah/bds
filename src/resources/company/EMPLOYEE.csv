@@ -1,0 +1,25 @@
+EMPID:int,NAME:string,DEPTNO:int,GENDER:string,CITY:string,AGE:int,SLACKER:boolean,MGRID:int,JOINEDAT:date,SALARY:float
+10,Fred,1,M,Fredericton,52,true,1,1996-08-03,100000
+11,Eric,20,M,San Francisco,55,true,10,2001-01-01,90000
+110,John,40,M,Vancouver,29,false,10,2002-05-03,65000
+120,Wilma,20,F,Toronto,25,false,11,2005-09-07,40000
+130,Alice,40,F,Vancouver,35,false,10,2007-01-01,85000
+132,Jane,30,F,Fredericton,24,true,10,2007-01-01,80000
+133,Joyce,10,F,Fredericton,31,false,10,2007-01-01,45000
+134,Bob,10,M,Fredericton,36,true,10,2005-09-07,55000
+140,Tom,10,M,Fredericton,37,false,10,2017-01-01,60000
+142,Chris,20,M,Fredericton,35,false,11,2005-09-07,70000
+144,Munro,40,M,Fredericton,27,false,11,2007-09-07,70000
+145,Martha,50,F,Fredericton,28,true,11,2015-09-07,85000
+146,Jennifer,50,F,Vancouver,31,true,11,2005-09-07,65000
+150,Ken,40,M,Vancouver,31,true,11,2005-09-07,65000
+152,Gerry,40,F,Vancouver,45,false,132,2005-09-07,65000
+154,Mueller,40,M,Vancouver,40,false,132,2005-09-07,70000
+160,Angela,40,F,San Francisco,26,false,132,2005-03-03,70000
+162,Don,10,M,San Francisco,44,false,132,2005-03-03,70000
+165,Stephen,20,M,San Francisco,42,true,132,2005-03-03,80000
+170,Charles,30,M,San Francisco,32,true,145,2010-03-03,40000
+176,Pierre,40,M,San Francisco,37,false,145,2010-03-03,40000
+180,Lester,40,M,Toronto,55,true,145,2011-05-03,55000
+182,John,20,M,Toronto,61,false,10,2011-05-03,60000
+184,Smith,30,M,Toronto,37,false,11,2011-05-03,45000

@@ -1,0 +1,7 @@
+DEPTNO:int,NAME:string
+1,"Management"
+10,"Sales"
+20,"Marketing"
+30,"Accounts"
+40,"R&D"
+50,"HR"
